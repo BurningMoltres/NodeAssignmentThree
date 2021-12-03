@@ -1,0 +1,16 @@
+{
+  "name": "nodetaskthree",
+  "version": "1.0.0",
+  "description": "NodeTaskThreeAssignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "omkarStart":"nodemon server.js"
+  },
+  "author": "omkar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
